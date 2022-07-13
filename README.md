@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @William-McClellan
-- 👀 I’m interested in direct democracy, effective altruism, AI, podcasts, hiking, mycology, gardening
+- 👀 I’m interested in direct democracy, effective altruism, AI, podcasts, hiking, mycology, and gardening
 - 🌱 I’m currently learning Git and Github so I can implement version control while I start learning Javascript.
 - 💞️ I’m looking to collaborate on CSS for now until I learn Javascript, but I haven't collaborated yet!
 - 📫 How to reach me ... 
