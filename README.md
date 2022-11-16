@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @William-McClellan
-- 👀 I’m interested in direct democracy, effective altruism, AI, podcasts, hiking, mycology, and gardening
+- 👀 I’m interested in direct democracy, effective altruism, AI, podcasts, hiking, mycology, running, and gardening
 - 📫 How to reach me ... 
 
 <!---
