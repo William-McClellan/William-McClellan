@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @William-McClellan
-- 👀 I’m interested in first principles and systems thinking, effective altruism, AI, podcasts, hiking, mycology, running, and gardening.
+- 👀 I’m interested in first principles and systems thinking, effective altruism, podcasts, running, mycology, and gardening.
 
 
 <!---
